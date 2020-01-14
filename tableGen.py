@@ -9,7 +9,7 @@ for id in range(2999):
     line = '{} | '.format(id)
     for i, lang in enumerate(langs):
         if glob.glob('{}/{}.*'.format(lang, id)):
-            line = '{}:fa-check:'.format(line)
+            line = '{}:heavy_check_mark:'.format(line)
         
         if i < latest_i:
             line = '{} | '.format(line)

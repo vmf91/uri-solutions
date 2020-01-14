@@ -7,14 +7,14 @@ Feel free to copy and use anything.
 <!--TABLE-->
 URI  | Python | JavaScript | PostgreSQL 
 ---- | ------ | ---------- | ---------- 
-1001 | :fa-check: | :fa-check: | 
-1002 | :fa-check: |  | 
-1003 | :fa-check: |  | 
-1004 | :fa-check: |  | 
-1039 | :fa-check: |  | 
-1102 | :fa-check: |  | 
-2602 |  |  | :fa-check:
-2603 |  |  | :fa-check:
-2604 |  |  | :fa-check:
-2605 |  |  | :fa-check:
-2606 |  |  | :fa-check:
+1001 | :heavy_check_mark: | :heavy_check_mark: | 
+1002 | :heavy_check_mark: |  | 
+1003 | :heavy_check_mark: |  | 
+1004 | :heavy_check_mark: |  | 
+1039 | :heavy_check_mark: |  | 
+1102 | :heavy_check_mark: |  | 
+2602 |  |  | :heavy_check_mark:
+2603 |  |  | :heavy_check_mark:
+2604 |  |  | :heavy_check_mark:
+2605 |  |  | :heavy_check_mark:
+2606 |  |  | :heavy_check_mark:
