@@ -2,10 +2,10 @@
 
 This is my repo for saving all my URI solutions.
 Feel free to copy and use anything.
-                    
+
 #### Solutions already available
 <!--TABLE-->
-URI  | Python | JavaScript | PostgreSQL 
+URI  | Python | Javascript | PostgreSQL
 ------------- | -------------
 1001 | :fa-check: | :fa-check: | 
 1002 | :fa-check: |  | 
