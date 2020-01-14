@@ -5,7 +5,7 @@ Feel free to copy and use anything.
                     
 #### Solutions already available
 <!--TABLE-->
-URI | Python | JavaScript | PostgreSQL 
+URI  | Python | JavaScript | PostgreSQL 
 ------------- | -------------
 1001 | :fa-check: | :fa-check: | 
 1002 | :fa-check: |  | 
