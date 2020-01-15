@@ -29,6 +29,8 @@ URI  | Python | JavaScript | PostgreSQL
 1020 | :heavy_check_mark: |  | 
 1021 | :heavy_check_mark: |  | 
 1022 | :heavy_check_mark: |  | 
+1024 | :heavy_check_mark: |  | 
+1025 | :heavy_check_mark: |  | 
 1026 | :heavy_check_mark: |  | 
 1039 | :heavy_check_mark: |  | 
 1102 | :heavy_check_mark: |  | 
