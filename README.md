@@ -20,16 +20,16 @@ URI  | Python | JavaScript | PostgreSQL
 1011 | :heavy_check_mark: | :heavy_check_mark: | 
 1012 | :heavy_check_mark: | :heavy_check_mark: | 
 1013 | :heavy_check_mark: | :heavy_check_mark: | 
-1014 | :heavy_check_mark: |  | 
-1015 | :heavy_check_mark: |  | 
-1016 | :heavy_check_mark: |  | 
-1017 | :heavy_check_mark: |  | 
-1018 | :heavy_check_mark: |  | 
-1019 | :heavy_check_mark: |  | 
-1020 | :heavy_check_mark: |  | 
-1021 | :heavy_check_mark: |  | 
-1022 | :heavy_check_mark: |  | 
-1024 | :heavy_check_mark: |  | 
+1014 | :heavy_check_mark: | :heavy_check_mark: | 
+1015 | :heavy_check_mark: | :heavy_check_mark: | 
+1016 | :heavy_check_mark: | :heavy_check_mark: | 
+1017 | :heavy_check_mark: | :heavy_check_mark: | 
+1018 | :heavy_check_mark: | :heavy_check_mark: | 
+1019 | :heavy_check_mark: | :heavy_check_mark: | 
+1020 | :heavy_check_mark: | :heavy_check_mark: | 
+1021 | :heavy_check_mark: | :heavy_check_mark: | 
+1022 | :heavy_check_mark: | :heavy_check_mark: | 
+1024 | :heavy_check_mark: | :heavy_check_mark: | 
 1025 | :heavy_check_mark: |  | 
 1026 | :heavy_check_mark: |  | 
 1039 | :heavy_check_mark: |  | 
