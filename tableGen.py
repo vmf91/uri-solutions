@@ -4,7 +4,7 @@ langs = ['Python', 'JavaScript', 'Lua', 'PostgreSQL']
 latest_i = len(langs) - 1
 
 table = 'URI  | Python | JavaScript | Lua | PostgreSQL \n'
-table += ':--- | :---: | :---: | :---: \n'
+table += ':--- | :---: | :---: | :---: | :---: \n'
 for id in range(2999):
     line = '{} | '.format(id)
     for i, lang in enumerate(langs):

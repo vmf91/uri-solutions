@@ -6,7 +6,7 @@ Feel free to copy and use anything.
 #### Solutions already available
 <!--TABLE-->
 URI  | Python | JavaScript | Lua | PostgreSQL 
-:--- | :---: | :---: | :---: 
+:--- | :---: | :---: | :---: | :---: 
 10 |  |  |  | 
 11 |  |  |  | 
 12 |  |  |  | 
