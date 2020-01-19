@@ -14,7 +14,7 @@ for id in range(2999):
         if i < latest_i:
             line = '{} | '.format(line)
     
-    if len(line) > 13:
+    if len(line) > 32:
         table += '{}\n'.format(line)
 
 readme = open('README.md', 'r').read()
