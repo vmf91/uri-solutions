@@ -15,8 +15,8 @@ URI  | Python | JavaScript | Lua | PostgreSQL
 1006 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1007 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1008 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-1009 | :heavy_check_mark: | :heavy_check_mark: |  | 
-1010 | :heavy_check_mark: | :heavy_check_mark: |  | 
+1009 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+1010 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1011 | :heavy_check_mark: | :heavy_check_mark: |  | 
 1012 | :heavy_check_mark: | :heavy_check_mark: |  | 
 1013 | :heavy_check_mark: | :heavy_check_mark: |  | 
