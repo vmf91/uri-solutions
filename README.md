@@ -32,6 +32,8 @@ URI  | Python | JavaScript | Lua | PostgreSQL
 1024 | :heavy_check_mark: | :heavy_check_mark: |  | 
 1025 | :heavy_check_mark: |  |  | 
 1026 | :heavy_check_mark: |  |  | 
+1035 | :heavy_check_mark: |  |  | 
+1036 | :heavy_check_mark: |  |  | 
 1039 | :heavy_check_mark: |  |  | 
 1102 | :heavy_check_mark: | :heavy_check_mark: |  | 
 2602 |  |  |  | :heavy_check_mark:
