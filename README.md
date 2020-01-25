@@ -41,3 +41,11 @@ URI  | Python | JavaScript | Lua | PostgreSQL
 2604 |  |  |  | :heavy_check_mark:
 2605 |  |  |  | :heavy_check_mark:
 2606 |  |  |  | :heavy_check_mark:
+2607 |  |  |  | :heavy_check_mark:
+2608 |  |  |  | :heavy_check_mark:
+2609 |  |  |  | :heavy_check_mark:
+2610 |  |  |  | :heavy_check_mark:
+2611 |  |  |  | :heavy_check_mark:
+2612 |  |  |  | :heavy_check_mark:
+2613 |  |  |  | :heavy_check_mark:
+2614 |  |  |  | :heavy_check_mark:
