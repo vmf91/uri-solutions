@@ -1,10 +1,10 @@
 import glob
 
-langs = ['Python', 'JavaScript', 'Lua', 'PostgreSQL']
+langs = ['Python', 'JavaScript', 'Lua', 'C', 'PostgreSQL']
 latest_i = len(langs) - 1
 
-table = 'URI  | Python | JavaScript | Lua | PostgreSQL \n'
-table += ':--- | :---: | :---: | :---: | :---: \n'
+table = 'URI  | Python | JavaScript | Lua | C | PostgreSQL \n'
+table += ':--- | :---: | :---: | :---: | :---: | :---: \n'
 for id in range(2999):
     line = '{} | '.format(id)
     for i, lang in enumerate(langs):
