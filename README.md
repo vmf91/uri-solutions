@@ -17,11 +17,11 @@ URI  | Python | JavaScript | Lua | C | PostgreSQL
 1008 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1009 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1010 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-1011 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
-1012 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
-1013 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
-1014 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
-1015 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
+1011 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+1012 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+1013 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+1014 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+1015 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1016 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
 1017 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
 1018 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | 
