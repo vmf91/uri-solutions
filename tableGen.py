@@ -1,9 +1,9 @@
 import glob
 
-langs = ['Python', 'JavaScript', 'Lua', 'C', 'PostgreSQL']
+langs = ['Python', 'JavaScript', 'Lua', 'C', 'C++', 'PostgreSQL']
 latest_i = len(langs) - 1
 
-table = 'URI  | Python | JavaScript | Lua | C | PostgreSQL \n'
+table = 'URI  | Python | JavaScript | Lua | C |  C++ | PostgreSQL \n'
 table += ':--- | :---: | :---: | :---: | :---: | :---: \n'
 for id in range(2999):
     line = '{} | '.format(id)
