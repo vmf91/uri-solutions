@@ -6,7 +6,7 @@ Feel free to copy and use anything.
 #### Solutions already available
 <!--TABLE-->
 URI  | Python | JavaScript | Lua | C |  C++ | PostgreSQL 
-:--- | :---: | :---: | :---: | :---: | :---: 
+:--- | :---: | :---: | :---: | :---: | :---: | :---: 
 1001 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1002 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 1003 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
